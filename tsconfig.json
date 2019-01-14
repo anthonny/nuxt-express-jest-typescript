@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./stack/frontend",
+        "experimentalDecorators": true,
+        "paths": {
+            "@/*" : ["*"]
+        }
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
